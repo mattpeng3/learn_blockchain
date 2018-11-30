@@ -6,4 +6,4 @@ Crashcourse presentation: https://docs.google.com/presentation/d/1gASjmJ_E0Bns6_
 Download the files above
 
 Week 1
-Election app taken from Dapp University tutorial
+**Election app taken from Dapp University tutorial**
